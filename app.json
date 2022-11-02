@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "appDesaWeb",
+    "slug": "appDesaWeb",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "appDesaWeb"
+}
